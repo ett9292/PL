@@ -5,6 +5,14 @@
   
 # 目錄
 * [**課程筆記區**](https://github.com/ett9292/PL#課程筆記區)  
+  > 有想查出來的coding功能或問題解決，善用ChatGPT
+
+  > [google文件筆記](https://docs.google.com/document/d/1waQLKYFtAfLIPRl1JR8s3REN9ELs-ezkZIDmjdKaFfA/edit)
+  
+  > **week3**  
+    [the world bank](https://data.worldbank.org/topic/education)  
+    [colab: ett.datascience.ipynb](https://colab.research.google.com/drive/1ZJk6U2XXQeEj4MVeH_-MzJXrMZ43Huoc#scrollTo=O0nzGW5_51zh)  
+  
 * [**作業連結區**](https://github.com/ett9292/PL#作業連結區)  
   * [作業一](https://github.com/ett9292/PL#作業一)  
   * [作業二](https://github.com/ett9292/PL#作業二)
