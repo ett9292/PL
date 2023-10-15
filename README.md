@@ -23,6 +23,7 @@
     [colab: ett.datascience.ipynb](https://colab.research.google.com/drive/1ZJk6U2XXQeEj4MVeH_-MzJXrMZ43Huoc#scrollTo=O0nzGW5_51zh)  
 # 作業連結區 
 ## 作業一
+  ><https://github.com/ett9292/PL/blob/main/hw1_PandasApplication.ipynb>  
 ## 作業二
 ## 作業三
 ## 作業四
