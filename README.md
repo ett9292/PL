@@ -24,7 +24,7 @@
 # 作業連結區 
 ## 作業一
   >Colab(尚未更新完整版本): <https://colab.research.google.com/drive/1DMXKLHrpxbJdlWSLP1T2ocVZJ2I53xGQ#scrollTo=HLA3vXlBPELF>  
-  >Github(完整版本): <https://github.com/ett9292/PL/blob/main/hw1_PandasApplication.ipynb>  
+  >Github(完整版本): <https://github.com/ett9292/PL/blob/main/hw01/hw1_PandasApplication.ipynb>  
 ## 作業二
 ## 作業三
 ## 作業四
