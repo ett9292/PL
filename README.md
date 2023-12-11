@@ -24,8 +24,9 @@
 # 作業連結區 
 ## 作業一
   >Colab(尚未更新完整版本): <https://colab.research.google.com/drive/1DMXKLHrpxbJdlWSLP1T2ocVZJ2I53xGQ#scrollTo=HLA3vXlBPELF>  
-  >Github(完整版本): <https://github.com/ett9292/PL/blob/main/hw01/hw1_PandasApplication.ipynb>  
+  >Github(完整版本): <https://github.com/ett9292/PL/blob/c329ce366cf037ff069b7459b333909348717348/hw01%E3%80%81hw02/hw1%262_RuralSchoolAnalysis.ipynb>  
 ## 作業二
+  >[HW2](https://github.com/ett9292/PL/blob/c329ce366cf037ff069b7459b333909348717348/hw01%E3%80%81hw02/hw1%262_RuralSchoolAnalysis.ipynb)
 ## 作業三
 ## 作業四
 ## 作業五
