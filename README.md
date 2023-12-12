@@ -28,6 +28,7 @@
 ## 作業二
   >[HW2](https://github.com/ett9292/PL/blob/c329ce366cf037ff069b7459b333909348717348/hw01%E3%80%81hw02/hw1%262_RuralSchoolAnalysis.ipynb)
 ## 作業三
+  >[HW3](https://github.com/ett9292/PL/blob/main/HW3/ptt.ipynb)
 ## 作業四
   >[HW4](https://github.com/ett9292/PL/tree/main/HW4)
 ## 作業五
