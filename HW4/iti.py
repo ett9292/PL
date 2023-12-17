@@ -26,7 +26,7 @@ def getContent(url):
     return "https://www.ptt.cc/" + nextLink["href"]
 
 count = 0 #設定翻頁
-while count<10: #抓取300頁
+while count<10: #抓取10頁
     file.write("-------------------------------------第" + str(count+1) + "頁-------------------------------------" + "\n")
     #進行翻頁
     url = getContent(url)
