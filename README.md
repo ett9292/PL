@@ -33,4 +33,6 @@
   >[HW4](https://github.com/ett9292/PL/tree/main/HW4)  
   >[Medium](https://medium.com/@yiting2790/ptt%E6%A3%92%E7%90%83%E6%9D%BF%E7%88%AC%E8%9F%B2-97d4e32dea80)
 ## 作業五
+  >[HW5](https://github.com/ett9292/PL/tree/main/HW5)  
+  >[Medium](https://medium.com/@yiting2790/it%E9%82%A6%E5%B9%AB%E5%BF%99%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-81e70dca424b)
 # 專題連結區
