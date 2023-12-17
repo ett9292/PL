@@ -30,6 +30,7 @@
 ## 作業三
   >[HW3](https://github.com/ett9292/PL/blob/main/HW3/ptt.ipynb)
 ## 作業四
-  >[HW4](https://github.com/ett9292/PL/tree/main/HW4)
+  >[HW4](https://github.com/ett9292/PL/tree/main/HW4)  
+  >[Medium](https://medium.com/@yiting2790/ptt%E6%A3%92%E7%90%83%E6%9D%BF%E7%88%AC%E8%9F%B2-97d4e32dea80)
 ## 作業五
 # 專題連結區
